@@ -1,7 +1,7 @@
 # OpenFlow 1.3 and wave module for ns-3 #
 This is a Modified OFSwitch13 module with switch ports to include DSRC capabilities. Allowing [ns-3 Network Simulator][ns-3] users to simulate Software-Defined Networks (SDN) with [OpenFlow 1.3][ofp13] capabilities. We also modified the WAVE netdevice definition to include the ofswitch13 callback.
 
-# Acknowledgments #
+# Acknowledgment #
 The initial version of the code was developed by Luciano J Chaves [OpenFlow 1.3 Software Switch for ns-3][ofs13].
 
 
